@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: hsl(185, 75%, 39%);
+}
+
+.container {
+    background-color: white;
+    width: 300px;
+    margin: 10% auto;
+    text-align: center;
+}
